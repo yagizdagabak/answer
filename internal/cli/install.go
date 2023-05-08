@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/answerdev/answer/configs"
-	"github.com/answerdev/answer/i18n"
-	"github.com/answerdev/answer/pkg/dir"
-	"github.com/answerdev/answer/pkg/writer"
+	"github.com/yagizdagabak/answer/configs"
+	"github.com/yagizdagabak/answer/i18n"
+	"github.com/yagizdagabak/answer/pkg/dir"
+	"github.com/yagizdagabak/answer/pkg/writer"
 )
 
 const (
