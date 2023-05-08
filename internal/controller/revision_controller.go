@@ -1,17 +1,17 @@
 package controller
 
 import (
-	"github.com/answerdev/answer/internal/base/constant"
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/base/middleware"
-	"github.com/answerdev/answer/internal/base/reason"
-	"github.com/answerdev/answer/internal/entity"
-	"github.com/answerdev/answer/internal/schema"
-	"github.com/answerdev/answer/internal/service"
-	"github.com/answerdev/answer/internal/service/permission"
-	"github.com/answerdev/answer/internal/service/rank"
-	"github.com/answerdev/answer/pkg/obj"
-	"github.com/answerdev/answer/pkg/uid"
+	"github.com/yagizdagabak/answer/internal/base/constant"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/base/middleware"
+	"github.com/yagizdagabak/answer/internal/base/reason"
+	"github.com/yagizdagabak/answer/internal/entity"
+	"github.com/yagizdagabak/answer/internal/schema"
+	"github.com/yagizdagabak/answer/internal/service"
+	"github.com/yagizdagabak/answer/internal/service/permission"
+	"github.com/yagizdagabak/answer/internal/service/rank"
+	"github.com/yagizdagabak/answer/pkg/obj"
+	"github.com/yagizdagabak/answer/pkg/uid"
 	"github.com/gin-gonic/gin"
 	"github.com/segmentfault/pacman/errors"
 )

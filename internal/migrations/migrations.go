@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/answerdev/answer/internal/base/data"
-	"github.com/answerdev/answer/internal/entity"
+	"github.com/yagizdagabak/answer/internal/base/data"
+	"github.com/yagizdagabak/answer/internal/entity"
 	"xorm.io/xorm"
 )
 

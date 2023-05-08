@@ -3,9 +3,9 @@ package controller
 import (
 	"encoding/json"
 
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/base/translator"
-	"github.com/answerdev/answer/internal/service/siteinfo_common"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/base/translator"
+	"github.com/yagizdagabak/answer/internal/service/siteinfo_common"
 	"github.com/gin-gonic/gin"
 	"github.com/segmentfault/pacman/i18n"
 )

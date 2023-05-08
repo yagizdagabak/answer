@@ -3,14 +3,14 @@ package controller
 import (
 	"strings"
 
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/base/middleware"
-	"github.com/answerdev/answer/internal/base/reason"
-	"github.com/answerdev/answer/internal/schema"
-	"github.com/answerdev/answer/internal/service/permission"
-	"github.com/answerdev/answer/internal/service/rank"
-	"github.com/answerdev/answer/internal/service/tag"
-	"github.com/answerdev/answer/internal/service/tag_common"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/base/middleware"
+	"github.com/yagizdagabak/answer/internal/base/reason"
+	"github.com/yagizdagabak/answer/internal/schema"
+	"github.com/yagizdagabak/answer/internal/service/permission"
+	"github.com/yagizdagabak/answer/internal/service/rank"
+	"github.com/yagizdagabak/answer/internal/service/tag"
+	"github.com/yagizdagabak/answer/internal/service/tag_common"
 	"github.com/gin-gonic/gin"
 	"github.com/segmentfault/pacman/errors"
 )

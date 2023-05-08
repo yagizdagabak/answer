@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/answerdev/answer/internal/base/translator"
-	"github.com/answerdev/answer/internal/cli"
+	"github.com/yagizdagabak/answer/internal/base/translator"
+	"github.com/yagizdagabak/answer/internal/cli"
 )
 
 var (

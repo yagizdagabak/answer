@@ -1,9 +1,9 @@
 package controller_admin
 
 import (
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/schema"
-	service "github.com/answerdev/answer/internal/service/role"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/schema"
+	service "github.com/yagizdagabak/answer/internal/service/role"
 	"github.com/gin-gonic/gin"
 )
 

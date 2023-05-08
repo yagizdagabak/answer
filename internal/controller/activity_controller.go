@@ -1,13 +1,13 @@
 package controller
 
 import (
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/base/middleware"
-	"github.com/answerdev/answer/internal/schema"
-	"github.com/answerdev/answer/internal/service/activity"
-	"github.com/answerdev/answer/internal/service/activity_common"
-	"github.com/answerdev/answer/internal/service/role"
-	"github.com/answerdev/answer/pkg/uid"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/base/middleware"
+	"github.com/yagizdagabak/answer/internal/schema"
+	"github.com/yagizdagabak/answer/internal/service/activity"
+	"github.com/yagizdagabak/answer/internal/service/activity_common"
+	"github.com/yagizdagabak/answer/internal/service/role"
+	"github.com/yagizdagabak/answer/pkg/uid"
 	"github.com/gin-gonic/gin"
 )
 

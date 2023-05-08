@@ -5,9 +5,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/answerdev/answer/internal/base/reason"
-	"github.com/answerdev/answer/internal/base/validator"
-	"github.com/answerdev/answer/pkg/checker"
+	"github.com/yagizdagabak/answer/internal/base/reason"
+	"github.com/yagizdagabak/answer/internal/base/validator"
+	"github.com/yagizdagabak1/answer/pkg/checker"
 	"github.com/segmentfault/pacman/errors"
 	"xorm.io/xorm/schemas"
 )

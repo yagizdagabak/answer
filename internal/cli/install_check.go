@@ -3,9 +3,9 @@ package cli
 import (
 	"fmt"
 
-	"github.com/answerdev/answer/internal/base/data"
-	"github.com/answerdev/answer/internal/entity"
-	"github.com/answerdev/answer/pkg/dir"
+	"github.com/yagizdagabak/answer/internal/base/data"
+	"github.com/yagizdagabak/answer/internal/entity"
+	"github.com/yagizdagabak/answer/pkg/dir"
 )
 
 func CheckConfigFile(configPath string) bool {

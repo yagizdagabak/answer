@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/service/dashboard"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/service/dashboard"
 	"github.com/gin-gonic/gin"
 )
 

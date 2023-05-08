@@ -3,8 +3,8 @@ package migrations
 import (
 	"fmt"
 
-	"github.com/answerdev/answer/internal/entity"
-	"github.com/answerdev/answer/internal/service/permission"
+	"github.com/yagizdagabak/answer/internal/entity"
+	"github.com/yagizdagabak/answer/internal/service/permission"
 	"github.com/segmentfault/pacman/log"
 	"xorm.io/xorm"
 )

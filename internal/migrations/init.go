@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/answerdev/answer/internal/base/data"
-	"github.com/answerdev/answer/internal/entity"
-	"github.com/answerdev/answer/internal/service/permission"
+	"github.com/yagizdagabak/answer/internal/base/data"
+	"github.com/yagizdagabak/answer/internal/entity"
+	"github.com/yagizdagabak/answer/internal/service/permission"
 	"golang.org/x/crypto/bcrypt"
 	"xorm.io/xorm"
 )

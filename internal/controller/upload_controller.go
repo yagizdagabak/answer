@@ -1,11 +1,11 @@
 package controller
 
 import (
-	"github.com/answerdev/answer/internal/base/handler"
-	"github.com/answerdev/answer/internal/base/reason"
-	"github.com/answerdev/answer/internal/schema"
-	"github.com/answerdev/answer/internal/service/uploader"
-	"github.com/answerdev/answer/pkg/converter"
+	"github.com/yagizdagabak/answer/internal/base/handler"
+	"github.com/yagizdagabak/answer/internal/base/reason"
+	"github.com/yagizdagabak/answer/internal/schema"
+	"github.com/yagizdagabak/answer/internal/service/uploader"
+	"github.com/yagizdagabak/answer/pkg/converter"
 	"github.com/gin-gonic/gin"
 	"github.com/segmentfault/pacman/errors"
 )
