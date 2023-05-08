@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/answerdev/answer/internal/base/conf"
-	"github.com/answerdev/answer/internal/cli"
-	"github.com/answerdev/answer/internal/install"
-	"github.com/answerdev/answer/internal/migrations"
+	"github.com/yagizdagabak/answer/internal/base/conf"
+	"github.com/yagizdagabak/answer/internal/cli"
+	"github.com/yagizdagabak/answer/internal/install"
+	"github.com/yagizdagabak/answer/internal/migrations"
 	"github.com/spf13/cobra"
 )
 
